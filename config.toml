@@ -8,3 +8,15 @@ theme = 'PaperMod'
     [params.homeInfoParams]
         Title = 'Earthling Bridget'
         Content = 'All of my favourite vegan recipes in one place.'
+
+    [[params.socialIcons]]
+        name = 'linkedin'
+        url = 'https://www.linkedin.com/in/hannah-bridget-price-098a27201/'
+
+    [[params.socialIcons]]
+        name = 'instagram'
+        url = 'https://www.instagram.com/hannahbridgetprice/'
+
+    [[params.socialIcons]]
+        name = 'github'
+        url = 'https://github.com/earthlingbridget'
