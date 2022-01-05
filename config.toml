@@ -1,4 +1,10 @@
 baseURL = 'http://hannahbridgetprice.me.uk/'
 languageCode = 'en-gb'
-title = 'My New Hugo Site'
+title = 'Earthling Bridget'
 theme = 'PaperMod'
+
+[params]
+
+    [params.homeInfoParams]
+        Title = 'Earthling Bridget'
+        Content = 'All of my favourite vegan recipes in one place.'
