@@ -1,0 +1,4 @@
+baseURL = 'http://hannahbridgetprice.me.uk/'
+languageCode = 'en-gb'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
