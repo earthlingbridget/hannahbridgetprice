@@ -3,8 +3,21 @@ languageCode = 'en-gb'
 title = 'Earthling Bridget'
 theme = 'PaperMod'
 
-[params]
+[menu]
+    [[menu.main]]
+        name = 'Mains'
+        url = 'categories/main-dishes/'
 
+    [[menu.main]]
+        name = 'Sides & Lunches'
+        url = 'categories/side-dishes-and-light-lunches'
+
+    [[menu.main]]
+        name = 'Desserts'
+        url = 'categories/desserts/'
+
+
+[params]
     [params.homeInfoParams]
         Title = 'Earthling Bridget'
         Content = 'All of my favourite vegan recipes in one place.'
