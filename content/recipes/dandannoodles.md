@@ -21,6 +21,9 @@ This is, by far, my most asked for recipe! Quick, easy to make, hella tasty; wha
 * Thumb of ginger
 * 1 tsp chinese 5 spice
 * 2 servings of stir fry noodles
+&nbsp;
+
+&nbsp;
 
 ### Method
 1. Stir the first 6 ingredients together in a jug.
@@ -29,7 +32,9 @@ This is, by far, my most asked for recipe! Quick, easy to make, hella tasty; wha
 4. Add in your 5 spice, garlic and ginger and fry for 1-2 minutes.
 5. Add in your stir fry noodles and sauce, fry until noodles are done.
 6. Serve with spring onions and sesame seeds.
+&nbsp;
 
+&nbsp;
 ### Additional notes
 
 It make look a little dry, but trust me it is super flavourful!
