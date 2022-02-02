@@ -2,7 +2,7 @@
 title: "Dan Dan Noodles"
 date: 2022-02-02T21:49:25Z
 tags: ["Under 20 Minutes", "Serves 3 - 4"]
-categories: ["Main Dishes"]
+categories: ["Side Dishes and Lunches"]
 ---
 This recipe comes from BOSH, and when they said it was one of their most popular, I can understand why.
 This is, by far, my most asked for recipe! Quick, easy to make, hella tasty; what more do you want?
