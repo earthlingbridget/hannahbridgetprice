@@ -24,7 +24,6 @@ While I'm not going to sit here and tell you that this tastes like mac and chees
 &nbsp;
 
 &nbsp;
-
 ### Method
 1. Blend your ingredients.
 2. Put on med/high heat to thicken and stir continuously so it doesn't stick.
