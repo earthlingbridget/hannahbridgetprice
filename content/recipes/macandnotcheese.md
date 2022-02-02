@@ -5,7 +5,9 @@ tags: ["Under 20 Minutes", "Serves - 4 - 5"]
 categories: ["Main Dishes", "Side Dishes and Lunches"]
 ---
 While I'm not going to sit here and tell you that this tastes like mac and cheese, I will tell you that you'll love this recipe in its own way! The recipe comes from Madeleine Olivia, a fellow Cornish vegan, and is one of the few recipes where I've barely altered it :)
+&nbsp;
 
+&nbsp;
 ### Ingredients
 * 60g cashews (soaked for 2+ hours)
 * 1 cup nutritional yeast

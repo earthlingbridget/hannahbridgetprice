@@ -5,7 +5,9 @@ tags: [ "40 - 60 Minutes", "Serves 4 - 6"]
 categories: ["Main Dishes"]
 ---
 I have tried and tested many a vegan chilli, and this has always remained the best. A great recipe for meat eaters who say they hate tofu ;)
+&nbsp;
 
+&nbsp;
 ### Ingredients
 #### For Tofu
 * 400g firm, pressed tofu
