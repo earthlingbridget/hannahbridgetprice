@@ -2,7 +2,7 @@
 title: "Template"
 date: 2022-01-05T22:06:25Z
 draft: true
-tags: ["20 - 40 Minutes", "Under 20 Minutes", "40 - 60 Minutes", "Over An Hour"]
+tags: ["20 - 40 Minutes", "Under 20 Minutes", "40 - 60 Minutes", "Over An Hour", "Serves - "]
 categories: ["Main Dishes", "Side Dishes and Light Lunches", "Desserts"]
 ---
 This is a very brief explanation of the recipe and how tasty it is.

@@ -1,7 +1,7 @@
 ---
 title: "Chilli"
 date: 2022-02-02T22:08:25Z
-tags: [ "40 - 60 Minutes"]
+tags: [ "40 - 60 Minutes", "Serves 4 - 6"]
 categories: ["Main Dishes"]
 ---
 I have tried and tested many a vegan chilli, and this has always remained the best. A great recipe for meat eaters who say they hate tofu ;)
