@@ -1,7 +1,7 @@
 ---
 title: "Dan Dan Noodles"
 date: 2022-02-02T21:49:25Z
-tags: ["20 - 40 Minutes"]
+tags: ["Under 20 Minutes"]
 categories: ["Main Dishes"]
 ---
 This recipe comes from BOSH, and when they said it was one of their most popular, I can understand why.
