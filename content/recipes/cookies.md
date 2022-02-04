@@ -11,7 +11,7 @@ Can't go wrong with a chocolate chip cookie.
 ### Ingredients
 * 225g oats
 * 125g plain flour
-* 1 tsp bicard
+* 1 tsp bicarb
 * Pinch of salt
 * 125 vegan butter
 * 100g brown sugar
@@ -25,7 +25,7 @@ Can't go wrong with a chocolate chip cookie.
 &nbsp;
 ### Method
 1. Blend up your oats until it's more like a flour (but not completely).
-2. Mix it with your flour, bicard and salt.
+2. Mix it with your flour, bicarb and salt.
 3. In another bowl, mix together your butter and sugars until soft and airy.
 4. Mix everything together with your chocolate chips.
 5. Put round dollops of the dough onto a baking tray.
