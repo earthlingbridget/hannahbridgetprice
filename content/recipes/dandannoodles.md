@@ -10,7 +10,7 @@ This is, by far, my most asked for recipe! Quick, easy to make, hella tasty; wha
 
 &nbsp;
 ### Ingredients
-* 5 tbsp (60 ml) water
+* 4 tbsp (60 ml) water
 * 2 tbsp tahini
 * 2 tbsp soy sauce
 * 1 tbsp rice vinegar
