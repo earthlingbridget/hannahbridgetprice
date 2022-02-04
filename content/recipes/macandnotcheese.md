@@ -1,5 +1,5 @@
 ---
-title: "Mac and *not* cheese"
+title: "Mac And *Not* Cheese"
 date: 2022-02-02T22:59:25Z
 tags: ["Under 20 Minutes", "Serves - 4 - 5"]
 categories: ["Main Dishes", "Side Dishes and Lunches"]

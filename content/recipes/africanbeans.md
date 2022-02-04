@@ -1,5 +1,5 @@
 ---
-title: "African style beans"
+title: "African Style Beans"
 date: 2022-02-03T22:06:25Z
 tags: ["20 - 40 Minutes", "Serves 2"]
 categories: ["Main Dishes"]
