@@ -23,12 +23,11 @@ It took me a tragically long time to discover the awesomeness of enchiladas, but
 * 1/4 tsp black pepper
 * Veg stock cube
 * A can of kidney or black beans
-* Vegan meat/chicken pieces 
+* 300g vegan meat/chicken pieces 
 * 150 ml passata
 #### Sauce
 * 350 ml passta
-* 1 tsp siracha
-* 1 tsp kethcup
+* 1 tbsp siracha
 * 1 tsp garlic granules
 * 1/2 tsp cumin
 * 1/4 tsp paprika
