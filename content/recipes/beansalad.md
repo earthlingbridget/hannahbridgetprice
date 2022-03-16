@@ -1,5 +1,5 @@
 ---
-title: "Easy bean salad"
+title: "Easy Bean Salad"
 date: 2022-03-16T13:06:25Z
 tags: ["Under 20 Minutes","Serves 1 - 2 "]
 categories: ["Side Dishes and Lunches"]
