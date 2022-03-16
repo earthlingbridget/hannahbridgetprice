@@ -4,12 +4,12 @@ date: 2022-03-16T13:06:25Z
 tags: ["Under 20 Minutes","Serves 1 - 2 "]
 categories: ["Side Dishes and Lunches"]
 ---
-An extraordinareily quick and easy recipe with ingredients you likely have in your cupboards.
+An extraordinarily quick and easy recipe with ingredients you likely have in your cupboards.
 &nbsp;
 
 &nbsp;
 ### Ingredients
-* 2 cans on beans 
+* 2 cans of beans 
 * 3 garlic cloves
 * 2 tbsp oil
 * 1 tbsp soy sauce
@@ -19,7 +19,7 @@ An extraordinareily quick and easy recipe with ingredients you likely have in yo
 
 &nbsp;
 ### Method
-1. Empty and rinse your bins.
+1. Empty and rinse your beans.
 2. Crush your garlic and put into a jug.
 3. Add your liquids to the jug and mix well.
 4. Pour onto the beans and stir it in well.
