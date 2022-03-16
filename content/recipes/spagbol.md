@@ -17,7 +17,7 @@ After spending a long time looking for the perfect spag bol, I felt defeated. It
 * Salt
 * Onion
 * Veg stock cube
-* Red wine stock cube (or another regular veg one)
+* Red wine stock pot (or another regular veg one)
 * 2 tsp italian herbs
 * 1/2 tsp paprika
 * 1/4 tsp cayenne pepper
