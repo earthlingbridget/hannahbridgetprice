@@ -12,7 +12,7 @@ This umami ragu is flat out one of the best things I have ever eaten; that's not
 * 2 carrots
 * 2 onions
 * 200g oyster mushrooms
-* 40g dried shiitake mushrooms
+* 40g dried shiitake mushrooms (or porcini)
 * 4-6 garlic cloves
 * 3 tomatoes
 * 80ml oil
@@ -32,8 +32,8 @@ This umami ragu is flat out one of the best things I have ever eaten; that's not
 &nbsp;
 ### Method
 1. Finely chop all veg (best to use a food processor).
-2. Put into a baking dish with your oil, miso, harissa, soy sauce, tomato paste and cumin seeds and mix well.
-3. Bake at 190 degrees for 40 minutes.
+2. Put veg into a baking dish with your oil, miso, harissa, soy sauce, tomato paste and cumin seeds and mix well.
+3. Bake at 190 degrees (fan) for 40 minutes.
 3. Stir halfway.
 4. When done, add in your lentils, pearl barley, red wine, creamed coconut, stock cubes and water and mix well.
 5. Bake at 180 degrees for 40 minutes covered with foil.
@@ -42,7 +42,6 @@ This umami ragu is flat out one of the best things I have ever eaten; that's not
 
 &nbsp;
 ### Additional notes
-* Feel free to use dried porcini instead of shiitake.
 * If you only have red wine, but not red wine stock pots, use it and use less water.
 * I use Blue Dragon's creamed coconut, if you only have coconut cream, use less water.
 
