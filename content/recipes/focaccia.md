@@ -17,23 +17,23 @@ Some of the best gosh darn bread you will ever eat.
 * Flaky sea salt (optional)
 * Fresh rosemary (optional)
 * Olives (optional)
+* Sun dried tomatoes (optional)
 &nbsp;
 
 &nbsp;
 ### Method
-1. Mix flour, yeast, salt and olives (as well as any other optional additions, like dried tomatoes).
+1. Mix flour, yeast, salt, tomatoes and olives (chop your tomatoes and olives as you wish).
 2. Add in the water and mix with a spoon (it will be very wet).
-3. Mix well until it's all mixed in.
 4. Rub the surface well with olive oil.
 5. Cover and place in the fridge for at least 12 hours.
 6. Make sure you've coated it in enough oil so it doesn't dry out, especially if you're just using a tea towel.
-7. Line 2 tins (I used cake tins) with greased baking paper.
+7. Grease two tins (I use cake tins).
 9. Deflate your dough and carefully remove it from the bowl.
 10. Split the dough into two, coat with a tbsp of oil each and rest for 3-4 hours.
 11. Sprinkle sea salt, rosemary, olives and other additional toppings.
 12. Coat with more oil and then use your fingers to dimple the dough (use them all at once and press down).
-13. Bake for 25-30 minutes at 200 degrees.
-14. Let cool for 10 minutes.
+13. Bake for 25-30 minutes at 200 degrees (fan).
+14. Remove from the tins and let cool for 10 minutes.
 &nbsp;
 
 &nbsp;
