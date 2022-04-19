@@ -12,7 +12,7 @@ Get ready to discover the wonders of Korean dishes (and gochujang).
 * 3 tbsp gochujang paste
 * 3 tbsp maple syrup
 * 3 tbsp rice vinegar
-* 3 tbsp rice vinegar
+* 3 tbsp sesame oil
 * 225g firm tofu
 * Cornflour
 * Soy sauce
