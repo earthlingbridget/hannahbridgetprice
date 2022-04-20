@@ -37,6 +37,9 @@ theme = 'PaperMod'
     [[params.socialIcons]]
         name = 'github'
         url = 'https://github.com/earthlingbridget'
+    
+    [params.label]
+        icon = 'favicon.png'
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]     
