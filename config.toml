@@ -9,12 +9,16 @@ theme = 'PaperMod'
         url = 'categories/main-dishes/'
 
     [[menu.main]]
-        name = 'Sides & Lunches'
+        name = 'Lunches & Sides'
         url = 'categories/side-dishes-and-lunches'
 
     [[menu.main]]
         name = 'Desserts'
         url = 'categories/desserts/'
+
+    [[menu.main]]
+        name = 'Search'
+        url = 'search/'
 
 
 [params]
@@ -33,3 +37,6 @@ theme = 'PaperMod'
     [[params.socialIcons]]
         name = 'github'
         url = 'https://github.com/earthlingbridget'
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]     
