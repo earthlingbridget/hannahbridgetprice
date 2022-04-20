@@ -1,6 +1,6 @@
 baseURL = 'http://hannahbridgetprice.me.uk/'
 languageCode = 'en-gb'
-title = 'Earthling Bridget'
+title = 'Oats & Totes'
 theme = 'PaperMod'
 
 [menu]
@@ -23,7 +23,7 @@ theme = 'PaperMod'
 
 [params]
     [params.homeInfoParams]
-        Title = 'Earthling Bridget'
+        Title = 'Oats & Totes'
         Content = 'All of my favourite vegan recipes in one place.'
 
     [[params.socialIcons]]
