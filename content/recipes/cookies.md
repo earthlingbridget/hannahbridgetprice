@@ -16,7 +16,7 @@ Can't go wrong with a chocolate chip cookie.
 * 125 vegan butter
 * 100g brown sugar
 * 100g white sugar
-* 2 tbsp golden sugar
+* 2 tbsp golden syrup
 * 2 tsp vanilla extract
 * 2 tbsp plant milk
 * 200g vegan chocolate chips
