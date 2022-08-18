@@ -4,7 +4,7 @@ date: 2022-08-18T22:06:25Z
 tags: ["Under 20 Minutes", "Serves 2"]
 categories: ["Side Dishes and Lunches"]
 ---
-10 minute, delicious, flavourful pasta; what more can you want?
+10 minutes, delicious, flavourful pasta; what more can you want?
 &nbsp;
 
 &nbsp;
