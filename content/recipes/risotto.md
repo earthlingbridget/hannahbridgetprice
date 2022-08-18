@@ -1,6 +1,6 @@
 ---
-title: "Simple mushroom risotto"
-date: 2022-08-017T22:06:25Z
+title: "Simple Mushroom Risotto"
+date: 2022-08-17T22:06:25Z
 tags: ["20 - 40 Minutes",  "Serves 2"]
 categories: ["Main Dishes"]
 ---

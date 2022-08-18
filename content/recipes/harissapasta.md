@@ -1,5 +1,5 @@
 ---
-title: "Harissa & tomato pasta"
+title: "Harissa & Tomato Pasta"
 date: 2022-08-18T14:06:25Z
 tags: ["Under 20 Minutes", "Serves 2"]
 categories: ["Side Dishes and Lunches"]
