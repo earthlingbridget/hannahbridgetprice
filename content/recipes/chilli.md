@@ -25,7 +25,7 @@ I have tried and tested many a vegan chilli, and this has always remained the be
 * 1.5 tbsp chilli powder
 * 2 tsp cumin
 * 1 tsp paprika
-* 2 veg stock cubes
+* 1-2 veg stock cubes
 * Black beans
 * Pinto beans
 * Kidney beans in chilli sauce

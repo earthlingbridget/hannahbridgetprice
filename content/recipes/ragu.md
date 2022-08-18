@@ -25,7 +25,7 @@ This umami ragu is flat out one of the best things I have ever eaten; that's not
 * 65g pearl barley
 * Red wine stock pot
 * 30-35g creamed coconut block
-* 2 stock cubes
+* 1-2 stock cubes
 * 850ml water
 &nbsp;
 
