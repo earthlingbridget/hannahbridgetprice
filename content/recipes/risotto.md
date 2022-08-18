@@ -24,8 +24,8 @@ This is the risotto that made my risotto-hating partner realise they like risott
 ### Method
 1. Fry shallot and garlic.
 2. Toss in the mushrooms. 
-3. Stir in the rice, vinegar and veg stock cubes, and add one ladle of water.
-4. When the rice has absorbed the water, add another ladle. Repeat for about 30 minutes. 
+3. Stir in the rice, vinegar and veg stock cubes, and add about 1/4 of your water.
+4. When the rice has absorbed the water, add another 1/4. Repeat for about 30 minutes, all while continuing to stir with the lid off. 
 5. Once cooked, toss in the nutritional yeast and fresh parsley and season to taste.
 &nbsp;
 
