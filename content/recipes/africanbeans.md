@@ -18,7 +18,7 @@ After a trip to South Africa to see family, I came back with a desire to find th
 * Pinch of black pepper
 * 70g tomato paste
 * 200g coconut cream
-* 1 can of cannellini beans
+* 1 can of cannelloni beans
 &nbsp;
 
 &nbsp;

@@ -15,7 +15,7 @@ A simply, classic recipe to warm your bones.
 * Stock cube
 * 1/2 tsp paprika
 * 1 tbsp worcester sauce
-* 2+ tbsp siracha
+* 2+ tbsp sriracha
 * 1 can chopped tomatoes
 * 1 can baked beans
 * Fresh parsley
@@ -33,8 +33,8 @@ A simply, classic recipe to warm your bones.
 
 &nbsp;
 ### Additional notes
-* I like to use richmond's vegan sausages.
-* With the addition of siracha, I find the quality of the beans doesn't matter.
+* I like to use Richmond's vegan sausages.
+* With the addition of sriracha, I find the quality of the beans doesn't matter.
 * Most worcester sauce is not vegan. Beware.
-* I use oxo stock cubes whcih are 1 per 190ml, take this into consideration.
+* I use Oxo stock cubes which are 1 per 190ml, take this into consideration.
 

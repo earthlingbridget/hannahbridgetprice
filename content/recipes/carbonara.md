@@ -33,6 +33,6 @@ It's hard to go wrong with an eggy pasta dish with vegan bacon.
 
 &nbsp;
 ### Additional notes
-* I recommed vivera's bacon bits.
+* I recommend Vivera's bacon bits.
 * If you've never tried black salt, I highly recommend it for that eggy taste.
 

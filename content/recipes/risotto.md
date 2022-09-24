@@ -31,5 +31,5 @@ This is the risotto that made my risotto-hating partner realise they like risott
 
 &nbsp;
 ### Additional notes
-* I use oxo cubes, which is one per 190ml. Take this into consideration.
+* I use Oxo cubes, which is one per 190ml. Take this into consideration.
 

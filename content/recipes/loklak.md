@@ -39,6 +39,6 @@ During my recent trip to Cambodia, I had the privilege of being taught some trad
 
 &nbsp;
 ### Additional notes
-* *Don't disturb the tofu while it's frying. You want to wait till it's browning and then turn it over. Also I recommend put your tofu and cornflour in a tub and shaking it.
+* *Don't disturb the tofu while it's frying. You want to wait util it has browned on one side, then turn it over. I recommend you coat the tofu by putting it in a tub with cornflour and shaking it vigorously.
 
 
