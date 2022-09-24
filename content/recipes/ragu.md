@@ -19,7 +19,7 @@ This umami ragu is flat out one of the best things I have ever eaten; that's not
 * 45g miso
 * 30g harissa
 * 3 tbsp tomato paste
-* 4 tbsp soy suace
+* 4 tbsp soy sauce
 * 2 tsp cumin seeds
 * 120g lentils
 * 65g pearl barley

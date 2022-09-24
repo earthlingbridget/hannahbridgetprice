@@ -32,7 +32,7 @@ A quick and easy lentil dahl, which easily tops many which are more complicated.
 
 &nbsp;
 ### Additional notes
-* I use oxo cubes which are 1 per 190 ml, take this into consideration.
+* I use Oxo cubes which are 1 per 190 ml, take this into consideration.
 * If you don't like heat, omit the chilli and use mild chilli powder but don't skimp on it as there's more to chilli powder than heat!
 
 

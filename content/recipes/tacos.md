@@ -29,7 +29,7 @@ Who doesn't love a good taco?
 
 &nbsp;
 ### Method
-1. Fry half of your garlic and one of the onions untul soft.
+1. Fry half of your garlic and one of the onions until soft.
 2. Place into a blender along with the following 11 ingredients, blend until smooth.
 3. Fry your second onion, garlic and jackfruit.
 4. When soft, add 200ml of your sauce.

@@ -40,5 +40,5 @@ Whether you want to consider this a katsu sauce or a carrot soup, that's up to y
 &nbsp;
 ### Additional notes
 * For crispy tofu, either do breaded or coat in cornflour and fry in plenty of oil.
-* I use oxo cubes which are 1 per 190 ml. Take this into consideration.
+* I use Oxo cubes which are 1 per 190 ml. Take this into consideration.
 
