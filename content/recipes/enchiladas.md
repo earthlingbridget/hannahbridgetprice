@@ -26,7 +26,7 @@ It took me a tragically long time to discover the awesomeness of enchiladas, but
 * 300g vegan meat/chicken pieces 
 * 150 ml passata
 #### Sauce
-* 350 ml passta
+* 350 ml passata
 * 1 tbsp siracha
 * 1 tsp garlic granules
 * 1/2 tsp cumin
