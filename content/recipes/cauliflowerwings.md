@@ -19,7 +19,7 @@ While this recipe is a bit of a faff, the end result makes it worth it.
 * Salt and pepper
 * Breadcrumbs
 * Butter
-* Siracha
+* Sriracha
 &nbsp;
 
 &nbsp;
@@ -29,7 +29,7 @@ While this recipe is a bit of a faff, the end result makes it worth it.
 3. Dip cauliflower pieces into mix.
 4. Coat in breadcrumbs.
 5. Bake for 20 minutes at 180 degrees.
-6. Melt your butter and mix it with siracha.
+6. Melt your butter and mix it with sriracha.
 7. Remove cauliflower from oven and pour over your hot sauce.
 8. Bake again for another 20 minutes.
 &nbsp;
@@ -37,6 +37,6 @@ While this recipe is a bit of a faff, the end result makes it worth it.
 &nbsp;
 ### Additional notes
 * I like to use panko breadcrumbs.
-* Use as much siracha and you can handle.
+* Use as much sriracha and you can handle.
 * If you want to serve it with a ranch like sauce, blend 150g cashews and 150ml plant milk with garlic, salt and chives.
 

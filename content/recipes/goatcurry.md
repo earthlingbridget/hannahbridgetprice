@@ -39,6 +39,6 @@ Why the title, you ask? Other than the fact it does not contain any goat, the re
 
 &nbsp;
 ### Additional notes
-* I use the plant chef 'meat' pieces.
+* I use the Tesco Plant Chef 'meat' pieces.
 
 

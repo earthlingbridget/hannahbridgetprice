@@ -15,7 +15,7 @@ It took me a tragically long time to discover the awesomeness of enchiladas, but
 * 2 red onions
 * 4 garlic cloves
 * 2 red peppers
-* 2+ tsp siracha
+* 2+ tsp sriracha
 * 2 tsp cumin
 * 1.5 tsp paprika
 * 1 tsp salt
@@ -50,5 +50,5 @@ It took me a tragically long time to discover the awesomeness of enchiladas, but
 
 &nbsp;
 ### Additional notes
-* I personally opt for plant chef 'meat' pieces and applewood smoked 'cheese'.
+* I personally opt for Tesco Plant Chef 'meat' pieces and Applewood smoked 'cheese'.
 

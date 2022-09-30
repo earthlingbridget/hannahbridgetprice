@@ -51,7 +51,7 @@ I have tried and tested many a vegan chilli, and this has always remained the be
 
 &nbsp;
 ### Additional notes
-* I use oxo stock cubes, which are 1 per 190 ml. Take this into consideration.
+* I use Oxo stock cubes, which are 1 per 190 ml. Take this into consideration.
 * Kidney beans WITH chilli sauce isn't necessary but bulks it up.
 * I don't know what to do if you don't have a fan oven.
 * If your tofu looks burnt, stir it and you'll probably realise it isn't.

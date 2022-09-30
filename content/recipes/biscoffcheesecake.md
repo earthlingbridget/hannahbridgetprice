@@ -26,7 +26,7 @@ Thanks the gods Biscoff biscuits are vegan, right? Also this is a no-bake cheese
 4. Whisk your double cream in another bowl until it is thick.
 5. Add your cream cheese mix and double cream together and stir slowly.
 6. Add in biscoff spread and continue to stir.
-7. Add your mix into your tin and refridgerate for over an hour.
+7. Add your mix into your tin and refrigerate for over an hour.
 8. Top with biscoff biscuits and melted spread.
 &nbsp;
 
