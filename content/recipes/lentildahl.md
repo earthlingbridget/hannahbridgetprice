@@ -26,7 +26,7 @@ A quick and easy lentil dahl, which easily tops many which are more complicated.
 ### Method
 1. Fry your onion, garlic and chilli until soft.
 2. Add in your spices and stock cube for 1-2 minutes.
-3. Add the rest of the ingredients and simmer for 20-30 minutes.
+3. Add the rest of the ingredients and simmer for 20-30 minutes. Lid on except for the last 5 minutes.
 4. Serve with rice.
 &nbsp;
 
