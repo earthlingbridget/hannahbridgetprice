@@ -7,7 +7,8 @@ categories: ["Side Dishes and Lunches"]
 We love recipes that can be super tasty and done super quickly! This one doesn't even involve chopping!
 &nbsp;
 
-&nbsp;
+![chilli noodles image](/chillinoodles.jpg)
+
 ### Ingredients
 * 2 servings of rice noodles
 * 1 tbsp sesame oil

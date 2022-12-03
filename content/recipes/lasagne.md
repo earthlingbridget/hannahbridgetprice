@@ -9,6 +9,7 @@ Using the spagbol sauce and a good white sauce, this sets the expectations for v
 
 &nbsp;
 ### Ingredients
+#### Red Sauce
 * 6 regular tomatoes
 * 350g cherry tomatoes
 * Garlic bulb
@@ -27,6 +28,7 @@ Using the spagbol sauce and a good white sauce, this sets the expectations for v
 * 2 tbsp nutritional yeast
 * 1/2 tsp sugar
 * 150g spinach 
+#### White Sauce
 * 3 tbsp butter or oil
 * 100g plain flour
 * 800ml soya milk

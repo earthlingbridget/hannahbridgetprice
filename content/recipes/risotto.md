@@ -7,7 +7,8 @@ categories: ["Main Dishes"]
 This is the risotto that made my risotto-hating partner realise they like risotto.
 &nbsp;
 
-&nbsp;
+![risotto](/risotto.jpg)
+
 ### Ingredients
 * Shallot
 * 4 garlic cloves

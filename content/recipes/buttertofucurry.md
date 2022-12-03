@@ -7,7 +7,8 @@ categories: ["Main Dishes"]
 This is a slow cooker tofu butter curry that is stupidly quick to prepare and also stupidly delicious and creamy. 
 &nbsp;
 
-&nbsp;
+![butter tofu image](/buttertofu.jpg)
+
 ### Ingredients
 * 4 diced shallots
 * 1 can coconut milk

@@ -7,7 +7,8 @@ categories: ["Main Dishes"]
 During my recent trip to Cambodia, I had the privilege of being taught some traditional Khmer cuisine. Lok lak was something that I loved, and so the first thing I wanted to do when I got back was try making my own! 
 &nbsp;
 
-&nbsp;
+![lok lak image](/loklak.jpg)
+
 ### Ingredients
 * 450g tofu
 * Cornflour
