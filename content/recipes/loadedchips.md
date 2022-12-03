@@ -2,7 +2,7 @@
 title: "Jackfruit and Gravy Chips"
 date: 2022-10-05T22:06:25Z
 tags: ["40 - 60 Minutes", "Serves 2 - 3"]
-categories: ["Main Dishes", "Side Dishes and Lunches", "Desserts"]
+categories: ["Side Dishes and Lunches"]
 ---
 I know, sounds a bit cursed right? Hold off your judgement until you've tried it! From BOSH.
 &nbsp;
