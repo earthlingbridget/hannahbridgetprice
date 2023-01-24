@@ -7,7 +7,8 @@ categories: ["Main Dishes"]
 This delicious Korean dish is a combination of ramen and tteokbokki, a thick, saucy soup with Korean rice cakes. Perfectly sweet, salty, and spicy.
 &nbsp;
 
-&nbsp;
+![rabokki image](/rabokki.jpg)
+
 ### Ingredients
 * 400g tteok (Korean rice cakes)
 * 2 stock cubes

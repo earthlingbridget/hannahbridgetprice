@@ -8,7 +8,8 @@ This recipe comes from BOSH, and when they said it was one of their most popular
 This is, by far, my most asked for recipe! Quick, easy to make, hella tasty; what more do you want?
 &nbsp;
 
-&nbsp;
+![dan dan noodles image](/dandan.jpg)
+
 ### Ingredients
 * 4 tbsp (60 ml) water
 * 2 tbsp tahini

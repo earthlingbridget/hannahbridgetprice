@@ -7,7 +7,8 @@ categories: ["Side Dishes and Lunches"]
 Credit to Katie.
 &nbsp;
 
-&nbsp;
+![salt and pepper chicken image](/chicken.jpg)
+
 ### Ingredients
 * 320g vegan chick'n
 * 3-4 tbsp cornflour
