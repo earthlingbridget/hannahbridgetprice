@@ -15,7 +15,7 @@ There are people who like pepper, and then there are people who love pepper. Thi
 * 1 stock cube
 * 1/4 tsp garlic powder
 * 4 tbsp water
-* 1 cup (around 250ml) soy single cream
+* 1 cup (around 250ml) cream (see notes)
 * Salt and pepper to taste
 &nbsp;
 
@@ -30,5 +30,6 @@ There are people who like pepper, and then there are people who love pepper. Thi
 ### Additional notes
 * I use oxo stock cubes, adjust this measurement if you use a stronger one (or just add some salt)
 * Add more black pepper to taste
-* You can boil your gnocchi, but frying them is tasty!
+* You can boil your gnocchi, but frying them is tastier!
+* Shop bought single soy cream works well, but blending together 100g soaked cashews in 200ml water makes a richer sauce
 
