@@ -16,9 +16,10 @@ As someone who doesn't love vodka, I was surprised I loved this recipe!
 * 3 garlic cloves
 * Can of chopped tomatoes 400g
 * 2 tbsp vodka
+* 1 oxo stock cube
 * 1/2-1 tbsp brown sugar
-* 1/5 tsp salt
-* 1 tbsp tomato puree
+* 1/4 tsp salt
+* 1.5 tbsp tomato puree
 * Rigatoni pasta
 * Fresh basil
 * Cheese (optional)
