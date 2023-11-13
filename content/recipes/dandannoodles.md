@@ -40,5 +40,5 @@ This is, by far, my most asked for recipe! Quick, easy to make, hella tasty; wha
 &nbsp;
 ### Additional notes
 
-It make look a little dry, but trust me it is super flavourful!
+It may look a little dry, but trust me, it is super flavourful!
 

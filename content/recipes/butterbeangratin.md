@@ -1,36 +1,40 @@
 ---
-title: "Gochujang Tofu with Kimchi Fried Rice"
-date: 2023-02-05T22:06:25Z
-tags: ["20 - 40 Minutes",  "Serves 3 - 4"]
+title: "Butter Bean Gratin"
+date: 2023-11-05T22:06:25Z
+tags: ["40 - 60 Minutes",  "Serves 2 - 4"]
 categories: ["Main Dishes"]
 ---
-Discovering gochujang sauce is something you won't regret!
+Sometimes you take a leap of faith into trying a recipe you've never heard of, with no idea of what it should be like... and I'm telling you you won't regret doing it here!
 &nbsp;
 
 &nbsp;
 ### Ingredients
-* 450g tofu
-* Cornflour
-* 1.5 tbsp gochujang
-* 2 tbsp soy sauce
-* 3 tbsp maple syrup
-* 2 tbsp tomato paste
-* 1 tbsp brown sugar
-* 2 tbsp water
-* 1.5 tbsp lime juice
-* 3 (cooked) servings of rice
-* 200g kimchi
-* 4 spring onions
-* Sesame seeds
+* 2 cans of butter beans
+* Fresh coriander
+#### Roast Tomatoes
+* 450g cherry tomatoes
+* 3-4 garlic cloves
+* Oil
+* 2 tsp golden syrup
+* 1 tsp salt
+#### Bechamel sauce
+* 300g silken tofu
+* 40g white miso
+* 2 tbsp oil
+* 2 tsp onion granules
+* 1 garlic clove
+* 1/2 ground cumin
+* 1/8 tsp ground nutmeg
+* 1/4 tsp salt
+* Freshly ground black pepper
 &nbsp;
 
 &nbsp;
 ### Method
-1. Chop your tofu into blocks. Put into a tub with the cornflour, some salt and pepper and shake to coat. Fry in oil until crispy.
-2. Mix your sauce of gochujang, tomato paste etc. up to (and including) the lime juice.
-3. Remove your finished tofu. Fry your rice with the kimchi and spring onions.
-4. Remove the rice. Heat up your sauce, then add your tofu back in and coat. Coat with sesame seeds.
-5. Serve on top of rice. 
+1. Heat the oven to 220 degrees fan. Cover your tomatoes with their seasonings and roast (in a baking dish) for 25-30 minutes.
+2. Blend up your sauce ingredients.
+3. Once tomatoes are done, add in the butter beans and coriander and cover with the sauce.
+4. Grill for 5-10 minutes, until golden brown.
 &nbsp;
 
 &nbsp;

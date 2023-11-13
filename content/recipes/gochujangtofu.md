@@ -3,6 +3,7 @@ title: "Gochujang Tofu with Kimchi Fried Rice"
 date: 2023-02-05T22:06:25Z
 tags: ["20 - 40 Minutes",  "Serves 3 - 4"]
 categories: ["Main Dishes"]
+aliases: ["/recipes/template-copy/"]
 ---
 Discovering gochujang sauce is something you won't regret!
 &nbsp;
