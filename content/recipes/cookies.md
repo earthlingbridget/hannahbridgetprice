@@ -12,7 +12,6 @@ Can't go wrong with a chocolate chip cookie.
 * 225g oats
 * 125g plain flour
 * 1 tsp bicarb
-* Pinch of salt
 * 125 vegan butter
 * 100g brown sugar
 * 100g white sugar

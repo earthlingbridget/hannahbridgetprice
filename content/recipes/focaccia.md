@@ -9,7 +9,7 @@ Some of the best gosh darn bread you will ever eat.
 
 &nbsp;
 ### Ingredients
-* 4 cups (615g) bread flour
+* 4 cups bread flour
 * 7g packet of instant yeast
 * 2 tsp salt
 * 2 cups (470ml) lukewarm water

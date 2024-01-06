@@ -1,7 +1,7 @@
 ---
 title: "Butter Tofu Curry"
 date: 2022-06-20T16:06:25Z
-tags: ["Over An Hour", "Serves 4 "]
+tags: ["Over An Hour", "Serves 3 - 4", "Slow Cooker"]
 categories: ["Main Dishes"]
 ---
 This is a slow cooker tofu butter curry that is stupidly quick to prepare and also stupidly delicious and creamy. 

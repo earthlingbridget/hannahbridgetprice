@@ -1,5 +1,5 @@
 ---
-title: "Meditteranean Bowl"
+title: "Mediterranean Bowl"
 date: 2023-10-05T22:06:25Z
 tags: ["40 - 60 Minutes", "Serves 2 - 3"]
 categories: ["Main Dishes"]

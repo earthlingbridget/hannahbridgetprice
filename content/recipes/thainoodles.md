@@ -15,12 +15,12 @@ Simply delicious.
 * 1 block of tofu (smoked is good!)
 * 4-6 spring onions
 * Chillies to taste
-* 2 tbsp vegan fish sauce
+* 2 tbsp vegan fish sauce/veggie oyster sauce
 * White pepper
 * 1.5 tbsp sugar
 * 3 tbsp hot water
-* 2-3 tbsp soy sauce
-* 1/2 tbsp worcester sauce
+* 3-4 tbsp soy sauce
+* 1/2 tbsp worcester sauce/vinegar
 * 1/4 tsp MSG
 * 200g dried noodles
 * 3 cloves garlic
