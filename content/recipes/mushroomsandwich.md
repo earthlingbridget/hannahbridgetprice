@@ -9,14 +9,18 @@ Umami, crispy, tasty. From Sophie's Plant Kitchen on Instagram!
 
 &nbsp;
 ### Ingredients
+#### Mushrooms
 * 400g oyster mushrooms
 * 1 tbsp white miso
 * 1/2 tbsp soy sauce
 * 1 tbsp oil
+#### Sauce
 * 100g soaked cashews
+* 1 tbsp miso
 * 2-3 tbsp lemon juice
 * 1 garlic clove
 * 3 tbsp n. yeast
+* 2-3 tbsp water
 * Salt
 * Bread
 &nbsp;
