@@ -1,5 +1,5 @@
 ---
-title: "Caremlised Onion and Tomato Pasta"
+title: "Caramelised Onion and Tomato Pasta"
 date: 2023-01-05T22:06:25Z
 tags: ["20 - 40 Minutes", "Serves 2 - 3"]
 categories: ["Main Dishes"]
