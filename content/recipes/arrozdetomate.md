@@ -1,7 +1,6 @@
 ---
 title: "Arroz De Tomate"
 date: 2022-01-05T22:06:25Z
-draft: true
 tags: ["20 - 40 Minutes", "Serves 3 - 4"]
 categories: ["Main Dishes"]
 ---
