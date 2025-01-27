@@ -40,6 +40,9 @@ theme = 'PaperMod'
     
     [params.label]
         icon = '/favicon.png'
+    
+    [params.assets]
+        favicon = '/favicon.png'
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]     
