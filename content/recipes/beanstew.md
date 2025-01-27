@@ -24,7 +24,7 @@ A classic from BBC Good Food, made vegan.
 
 &nbsp;
 ### Method
-1. Fry your onion and pepper with a pinch of falt until soft.
+1. Fry your onion and pepper with a pinch of salt until soft.
 2. Add in your garlic  for another minute.
 3. Add in your pesto, coriander, crumbled stock cube, and paprika for another minute.
 4. Add your beans, tomatoes and 1/2 can of water.
