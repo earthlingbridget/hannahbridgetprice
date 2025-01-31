@@ -1,7 +1,7 @@
 ---
 title: "Tomato Leek and Beans"
 date: 2025-01-01T22:06:25Z
-tags: ["20 - 40 Minutes"s", "Serves 3 - 4"]
+tags: ["20 - 40 Minutes", "Serves 3 - 4"]
 categories: ["Main Dishes"]
 ---
 Full of fiber, veg, and deliciousness. From the Guardian.
