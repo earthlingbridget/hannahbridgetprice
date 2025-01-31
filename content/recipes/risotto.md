@@ -1,7 +1,7 @@
 ---
-title: "Simple Mushroom Risotto"
+title: "Simple Risotto"
 date: 2022-08-17T22:06:25Z
-tags: ["20 - 40 Minutes",  "Serves 2"]
+tags: ["40 - 60 Minutes",  "Serves 2"]
 categories: ["Main Dishes"]
 ---
 This is the risotto that made my risotto-hating partner realise they like risotto.
@@ -10,24 +10,29 @@ This is the risotto that made my risotto-hating partner realise they like risott
 ![risotto](/risotto.jpg)
 
 ### Ingredients
-* Shallot
+* Vegan butter
+* Onion
 * 4 garlic cloves
-* 100g mushrooms
-* 1 or 2 veg stock cubes
-* 1/2 cup risotto rice
-* 2 cups water
-* 2 tsp white wine vinegar
-* 4 tbsp nutritional yeast
-* Fresh parsley
+* 1 cup risotto rice
+* 4.5 cups veg broth
+* 1 bunch asparagus.
+* 1-2 tbsp lemon juice
+#### Parmesan
+* Cashews
+* Nutritional yeast
+* Salt
+* Garlic powder
 &nbsp;
 
 &nbsp;
 ### Method
-1. Fry shallot and garlic.
-2. Toss in the mushrooms. 
-3. Stir in the rice, vinegar and veg stock cubes, and add about 1/4 of your water.
-4. When the rice has absorbed the water, add another 1/4. Repeat for about 30 minutes, all while continuing to stir with the lid off. 
-5. Once cooked, toss in the nutritional yeast and fresh parsley and season to taste.
+1. Fry onion 4-5 mins.
+2. Add garlic and rice. Stir until toasted.
+3. Deglaze with white wine.
+4. Add the broth, not all at once. 0.75 cups at a time, until the rice has absorbed it. Stir constantly.
+5. Add asparagus towards the end.
+6. Top with 'parmesan', butter, and lemon juice.
+7. Season to taste.
 &nbsp;
 
 &nbsp;

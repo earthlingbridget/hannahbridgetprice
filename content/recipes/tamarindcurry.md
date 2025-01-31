@@ -18,7 +18,7 @@ A great and tasty way to use up some tamarind paste.
 * 1 tbsp sesame seeds
 * 1/2 tsp chilli flakes
 * 1 large tomatoes
-* 1 tsp tamarind paste
+* 1 tbsp tamarind paste
 * 2 tbsp ketchup
 * 1/2 inch ginger
 * 1 stock cube
