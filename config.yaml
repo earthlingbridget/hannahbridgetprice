@@ -1,0 +1,64 @@
+baseURL: "https://hannahbridgetprice.me.uk/"
+languageCode: en-gb
+title: Hannah Bridget Price
+theme: PaperMod
+# sectionPagesMenu: main
+menu:
+  main:
+    - name: About
+      url: /
+      weight: 1
+    - name: Novels
+      url: novels/
+      weight: 2
+    - name: Short Stories
+      url: short-stories/
+      weight: 3
+    - name: Recipes
+      url: recipes/
+      weight: 4
+    - name: Search
+      url: search/
+      weight: 5
+params:
+  homeInfoParams:
+    Title: Oats & Totes
+    Content: All of my favourite vegan recipes in one place.
+  profileMode:
+    enabled: true
+    subtitle: |
+      Writer, reader, wannabe author.
+    
+      &nbsp;
+
+      {{< justify >}} 
+      Growing up in Cornwall, I always dreamt of being an author one day; of
+      plucking one of the many stories from my head and getting it all down on
+      paper for someone else to read.
+      I was even voted ‘most likely to write a novel’ in my yearbook!
+      In 2023, after graduating with a degree in Computer Science from Royal Holloway, I
+      began to make that dream a reality.
+      I now reside in London with my twin sister, my fiancé, and our two cats.
+      Any time I’m not working my 9:00 - 18:00 big-girl-job in fashion, reading, cooking, or out and about, I’ll be writing.
+      Stay tuned for short stories, publishing news (whether that be self or traditional!), and other updates 😊
+      {{% /justify %}}
+    imageUrl: profile.jpg
+    imageTitle: Hannah sitting in a field of lavender
+    imageWidth: 240
+    imageHeight: 240
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/hannah-bridget-price-098a27201/"
+    - name: instagram
+      url: "https://www.instagram.com/hannahbridgetwriter"
+    - name: spotify
+      url: "https://open.spotify.com/user/1186044078"
+  label:
+    icon: /favicon.png
+  assets:
+    favicon: /favicon.png
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
