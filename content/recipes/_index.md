@@ -1,0 +1,6 @@
+---
+featured:
+    - Beans
+    - Bones
+---
+
