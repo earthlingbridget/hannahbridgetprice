@@ -1,7 +1,7 @@
 ---
 title: "Thai Red Jackfruit Noodles"
 date: 2025-01-01T22:06:25Z
-tags: ["40 - 60 Minutes", "Over An Hour", "Serves 2 - 3"]
+tags: ["40 - 60 Minutes", "Serves 2 - 3"]
 categories: ["Main Dishes"]
 ---
 Bursting with flavour, and a great way to use up some curry paste.
