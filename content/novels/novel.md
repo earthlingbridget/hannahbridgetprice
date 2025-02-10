@@ -6,5 +6,9 @@ draft: true
 categories: []
 ---
 
-Some Novel thought.
+
+blurb blurb blurb
+
+
+### More Information
 
