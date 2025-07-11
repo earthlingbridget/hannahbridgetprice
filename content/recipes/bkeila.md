@@ -5,7 +5,7 @@ tags: ["Over An Hour","Serves 3 - 4"]
 categories: ["Main Dishes"]
 ---
 
-This dish [from Ottolenghi](https://thehappyfoodie.co.uk/recipes/yotam-ottolenghis-bkeila-potato-and-butter-bean-stew/) is a current fave -- it's just so flavourful!\
+This dish [from Ottolenghi](https://thehappyfoodie.co.uk/recipes/yotam-ottolenghis-bkeila-potato-and-butter-bean-stew/) is a current fave -- it's just so flavourful!
 
 > ### Ingredients
 > * 80g coriander, plus 20g, roughly chopped, to serve
