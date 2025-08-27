@@ -5,10 +5,11 @@ tags: ["Fantasy", "Coming Soon"]
 categories: []
 ---
 
-100 years ago, the demons fell off the face of the world. These were not monsters from the depths, or from the stars--they wore human faces, appearing in the night, plundering every country in their path. Unstoppable, until they weren't.
-But not every scar heals.
-At a university on the edge of everything, four young students from every corner of this fractured world come together. Each has their reason to be there--and a reason they wish they weren't. But they find themselves united in their common goals: to prove themselves, and to find where they belong. Over the course of the year, their commitment to these goals, and one another, will be tested.
-The threads of fate are unpredictable. By the year's end the final remnant of the empire shall fall, but will our heroes survive the consequences of their choices, or be pulled down by the tangle of their intertwining lives?
+In this Babel meets Six of Crows adventure, in a world still suffering the consequences of colonialism, four budding students must overcome their differences and work together to prove themselves at the world’s first, and worst, international university, whilst bringing out both the best and worst in one another.
+
+Most people dream of changing their life. Many people plan how to get there. Few work to do so. Only a handful achieve it.
+On a remnant of an empire long gone from the earth, Ornanbys University welcomes those who failed the exams to get anywhere else. Having failed for numerous reasons, four students from across a broken world are forced together, only joined in two things: their resentment for having ended up there, and their desire to prove themselves.
+After an assassination attempt, a coup, and a murder, they’ll be forced together and learn more than they bargained for. But will they be a part of the solution for a world on the brink, or will their own selfish desires and fears only doom it further? 
 
 A brutal (international) high fantasy about colonialism, unlikely friendship, and strength in diversity. Featuring friends-to-lovers, found family, high stakes, no clear-cut villain, academia, and a diverse, well defined magic system.
 

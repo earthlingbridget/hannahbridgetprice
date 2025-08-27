@@ -2,7 +2,6 @@
 title: "Roots"
 date: 2025-03-09T22:06:25Z
 tags: ["2025"]
-draft: true
 categories: []
 ---
 
