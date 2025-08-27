@@ -1,14 +1,13 @@
 ---
 title: "In Your Eyes"
-date: 2022-09-09T22:06:25Z
-tags: ["Some short story thing"]
-draft: true
+date: 2025-09-09T22:06:25Z
+tags: ["2025"]
 categories: []
 ---
 
 ### Introduction
 
-This was one that I wrote at work. Whilst not structured like a proper story, again, it came from the heart. I don't feel like this much anymore, but it doesn't completely go away.
+I wrote this at work. Again, it's messy, but it's from the heart. I don't feel like this often anymore, but... it doesn't completely go away. This was for the Alpine Fellowship Prize, with the theme 'fear'.
 
 ### Story
 
