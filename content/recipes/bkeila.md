@@ -27,10 +27,13 @@ This dish [from Ottolenghi](https://thehappyfoodie.co.uk/recipes/yotam-ottolengh
 > 
 > ### Method
 >
-> Put the oil in a wide, deep frying or saute pan for which you have a lid, and set it on a medium heat. When hot, add the onion and salt, and cook, stirring often, for 10 minutes, until soft and sweet. Stir in the garlic and leeks, cover the pan and leave to cook for eight minutes, until the leeks are soft.
 > 
-> Add the artichokes, butter beans, frozen petits pois and stock to the pan, mix well, then cover again and cook for a further five minutes.
 > 
-> Add the lemon juice, then chop the herbs and stir them in, too, along with the ground pepper.
+> 1. Put the herbs and spinach into a food processor in batches and pulse until finely chopped (or finely chop by hand). Set aside.
 > 
-> Taste and adjust the seasoning as you wish, then distribute between shallow bowls. Serve with toasted sourdough drizzled with more extra-virgin olive oil on the side.
+> 2. Put 75ml of oil into a large, heavy-based pot on a medium heat. Add the onion and gently fry for 8 minutes, stirring occasionally, until soft and golden. Add the garlic, chillies and spices, and continue to cook for 6 minutes, stirring often.
+> 
+> 3. Increase the heat to high and add the chopped spinach and herbs to the pot along with the remaining 3 tablespoons of oil. Cook for 10 minutes, stirring occasionally, until the spinach turns a dark green, almost grey colour. You want the spinach to catch a bit at the bottom, but not to burn, so turn the heat down if necessary. Stir in the sugar, lemon juice, stock and 2 teaspoons of salt, scraping the bottom with a spatula as you go. Bring to a rapid simmer, then lower the heat to medium, add the potatoes and gently cook until they are soft all the way through, about 25 minutes. Add the butter beans and cook until warmed through, about 5 minutes.
+> 
+> 4. Remove from the heat and stir in the remaining 20g of coriander. Divide between four bowls, drizzle with some oil and serve with the lemon wedges alongside.
+> 
